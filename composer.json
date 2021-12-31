@@ -1,7 +1,7 @@
 {
     "name": "liveglam/wpmvc-core",
     "description": "WordPress MVC crore plugin.",
-    "license": "MIT",
+    "license": "proprietary",
     "keywords": ["wordpress","mvc","core"],
     "authors": [
         {
